@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameStateTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2019-02-20T16:02:56" hostname="nikolass-MBP" time="0.02">
+  <properties/>
+  <testcase name="testCorrectWordIsDetected" classname="GameStateTest" time="0.011"/>
+  <testcase name="testPlayerNotLost" classname="GameStateTest" time="0.001"/>
+  <testcase name="parseHint" classname="GameStateTest" time="0.0"/>
+  <testcase name="parseWord" classname="GameStateTest" time="0.0"/>
+  <testcase name="parseWrongInputNull" classname="GameStateTest" time="0.0"/>
+  <testcase name="testCorrectLetterIsDetectedCapital" classname="GameStateTest" time="0.0"/>
+  <testcase name="testPlayerWon" classname="GameStateTest" time="0.0"/>
+  <testcase name="parseLetter" classname="GameStateTest" time="0.0"/>
+  <testcase name="parseWrongInput" classname="GameStateTest" time="0.0"/>
+  <testcase name="testNullLetterIsDetected" classname="GameStateTest" time="0.0"/>
+  <testcase name="testWrongLetterIsDetected" classname="GameStateTest" time="0.0"/>
+  <testcase name="testGameStateConstructor" classname="GameStateTest" time="0.0"/>
+  <testcase name="testWrongWordIsDetectedCapital" classname="GameStateTest" time="0.0"/>
+  <testcase name="testShowingWordWithWordsGuessedNoneGuessed" classname="GameStateTest" time="0.0"/>
+  <testcase name="testCorrectWordIsDetectedCapital" classname="GameStateTest" time="0.0"/>
+  <testcase name="testRemainingHints" classname="GameStateTest" time="0.001"/>
+  <testcase name="testRemainingHintsMessageNoHintsLeft" classname="GameStateTest" time="0.0"/>
+  <testcase name="testWrongWordIsDetected" classname="GameStateTest" time="0.0"/>
+  <testcase name="testShowingWordWithWordsGuessedAllGuessed" classname="GameStateTest" time="0.0"/>
+  <testcase name="testPlayerNotWon" classname="GameStateTest" time="0.001"/>
+  <testcase name="testInitialisingUnGuessedArrayRepeate" classname="GameStateTest" time="0.0"/>
+  <testcase name="testCorrectLetterIsDetected" classname="GameStateTest" time="0.0"/>
+  <testcase name="testInitialisingUnGuessedWithSpace" classname="GameStateTest" time="0.001"/>
+  <testcase name="testUnguessedArrayNormal" classname="GameStateTest" time="0.0"/>
+  <testcase name="testPlayerLost" classname="GameStateTest" time="0.0"/>
+  <testcase name="testProvideHint" classname="GameStateTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
